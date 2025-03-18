@@ -1,4 +1,3 @@
-
 ---
 title: "Physics-informed Markov chains for remaining useful life prediction of wire bonds in power electronic modules"
 collection: publications
@@ -8,3 +7,5 @@ date: 2025-03-01
 venue: 'Microelectronics Reliability'
 paperurl : https://www.sciencedirect.com/science/article/pii/S0026271425000575
 ---
+
+
