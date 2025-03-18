@@ -29,8 +29,7 @@ Throughout my academic career and my personal projects, i have developped skills
 * Computer vision
 * Time series
 
-
-You can get more insight in the [Projects](), [Academic records](), and [CV](https://mehdighrabli.github.io/cv/) sections.
+You can get more insight in the [Projects]() and [CV](https://mehdighrabli.github.io/cv/) sections.
 
 Interests
 ======
