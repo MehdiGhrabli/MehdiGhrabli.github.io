@@ -1,7 +1,7 @@
 ---
 title: 'Dynamic time warping'
 date: 2025-03-25
-permalink: /posts/DTW/
+permalink: /DTW/
 tags:
   - cool posts
   - category1
