@@ -1,7 +1,7 @@
 ---
-title: 'Test Post number 1'
-date: 2030-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'Dynamic time warping'
+date: 2024-03-25
+permalink: /posts/DTW/
 tags:
   - cool posts
   - category1
