@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 4'
-date: 2015-08-14
-permalink: /posts/2012/08/blog-post-4/
+title: 'Dictionnary based pattern extraction'
+date: 2025-03-31
+permalink: /posts/DBPE/
 tags:
   - cool posts
   - category1
