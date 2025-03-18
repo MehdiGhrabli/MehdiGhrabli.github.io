@@ -42,7 +42,7 @@ Interests
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
 
-Keep in touch
+Stay in touch
 ======
 I'm looking forward to hearing from you! Feel free to contact me via my socials on the left handle, i would love to get your opinion about my work and to have a discussion about related topics. I am also open to collaborations and job offers pending the end of my PhD. 
 
