@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 2'
-date: 2013-08-14
-permalink: /posts/2013/08/blog-post-2/
+title: 'Statistical evaluation of machine learning models'
+date: 2025-05-31
+permalink: /posts/ME/
 tags:
   - cool posts
   - category1
