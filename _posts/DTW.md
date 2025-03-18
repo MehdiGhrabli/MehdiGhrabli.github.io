@@ -1,6 +1,6 @@
 ---
 title: 'Dynamic time warping'
-date: 2024-03-25
+date: 2025-03-25
 permalink: /posts/DTW/
 tags:
   - cool posts
