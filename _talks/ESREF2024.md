@@ -3,7 +3,7 @@ title: "Physics-informed Markov chains for remaining useful life prediction of w
 collection: talks
 type: "Poster"
 venue: "Paganini Conference Center"
-date: 2014-09-24
+date: 2024-09-24
 location: "Parma, Italy"
 ---
 
