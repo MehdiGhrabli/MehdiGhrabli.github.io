@@ -1,7 +1,7 @@
 ---
 title: 'Dictionnary based pattern extraction'
 date: 2025-03-31
-permalink: /posts/DBPE/
+permalink: /posts/2025/03/DBPE/
 tags:
   - cool posts
   - category1
