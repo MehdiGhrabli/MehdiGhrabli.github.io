@@ -26,9 +26,6 @@ main:
 
   - title: "Projects"
     url: /projects/
-
-  - title: "Academic records"
-    url: /AcademicRecords/
     
   - title: "CV"
     url: /cv/
