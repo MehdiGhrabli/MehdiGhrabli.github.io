@@ -1,6 +1,6 @@
 ---
 title: "Physics-informed Markov chains for remaining useful life prediction of wire bonds in power electronic modules"
-collection: talks
+collection: Poster
 type: "Poster"
 venue: "Paganini Conference Center"
 date: 2024-09-24
