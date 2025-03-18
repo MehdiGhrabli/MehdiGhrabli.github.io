@@ -23,6 +23,12 @@ main:
         
   - title: "Blog Posts"
     url: /posts/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Academic records"
+    url: /AcademicRecords/
     
   - title: "CV"
     url: /cv/
