@@ -6,9 +6,13 @@ author_profile: true
 ---
 
 {% assign sorted_projects = site.projects | sort: "year" | reverse %}
+{% assign current_year = "" %}
 
 {% for project in sorted_projects %}
-### {{ project.year }}
+  {% if project.year != current_year %}
+  ## {{ project.year }}
+  {% assign current_year = project.year %}
+  {% endif %}
 
-- **[{{ project.title }}]({{ project.url }})**
+  - **[{{ project.title }}]({{ project.url }})**
 {% endfor %}
