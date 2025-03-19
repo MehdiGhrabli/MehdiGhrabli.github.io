@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in machine learning applied to power electronic module's reliability, ENS Paris-Saclay, 2026 (expected)
+* Masters MVA (Mathématiques, vision, apprentissage), ENS Paris-Saclay, 2022
+* Engineering degree in Applied mathematics, ENSTA Paris, 2022
 
 Work experience
 ======
