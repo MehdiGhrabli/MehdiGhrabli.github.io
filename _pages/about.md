@@ -39,7 +39,6 @@ My PhD is a collaboration between the SATIE (Laboratoire des systèmes et applic
     </span>
 
     <span class="tag">Machine learning</span>
-    <span class="tag">Predictive maintenance</span>
     <span class="tag">Power electronics</span>
     <span class="tag">Physics-of-failure</span>
     <span class="tag">Remaining useful life</span>
