@@ -14,6 +14,7 @@ Education
 * PhD in machine learning applied to power electronic module's reliability, ENS Paris-Saclay, 2026 (expected)
 * Masters MVA (Mathématiques, vision, apprentissage), ENS Paris-Saclay, 2022
 * Engineering degree in Applied mathematics, ENSTA Paris, 2022
+* Preparatory class Institut préparatoire aux études d’ingénieurs Tunis (IPEIT), 2019
 
 Work experience
 ======
@@ -64,7 +65,15 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Academic records
+======
+* [baccalauréat](github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/bac.pdf)
+* Preperatory class : [First year, semester 1](github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/17%2018%20sem%201.pdf), [First year, semester 2](github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/prep%2017%2018.pdf), [Second year, semester 1](github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/18%2019%20sem%201.pdf), [Second year, semester 2](github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/prep%202018%202019.pdf), [National exam](github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/Notes%20Concours.pdf)
+* Engineering : [First year (French)](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/releve-note-ensta1-ghrabli-mehdi-2019-2020-1A-FR_Edition%20finale.pdf), [First year (English)](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/releve-note-ensta1-ghrabli-mehdi-2019-2020-1A-EN_Edition%20finale.pdf), [Second year (French)](github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/releve-note-ensta1-ghrabli-mehdi-2020-2021-2A-FR%20(2).pdf), [Second year (English)](github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/releve-note-ensta1-ghrabli-mehdi-2020-2021-2A-EN.pdf), [Third year (French)](github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/releve-note-ensta1-ghrabli-mehdi-2021-2022-3A-FR.pdf)
+* [Masters](github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/notes%20M2%20MVA%20Mehdi%20Ghrabli%20(1).pdf)
+
+
 Download
 ======
 [Click here](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/CV_MEHDI_GHRABLI_Doctorat_ENG.pdf) to download a more detailed CV
