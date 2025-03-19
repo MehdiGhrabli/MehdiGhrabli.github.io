@@ -68,7 +68,8 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-[Download CV](https://raw.githubusercontent.com/MehdiGhrabli/MehdiGhrabli.github.io/blob/master/files/CV_MEHDI_GHRABLI_Doctorat_ENG.pdf)
-
+  
+Download
+======
+[Click here](https://raw.githubusercontent.com/MehdiGhrabli/MehdiGhrabli.github.io/blob/master/files/CV_MEHDI_GHRABLI_Doctorat_ENG.pdf) to download a more detailed CV
 
