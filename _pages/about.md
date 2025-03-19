@@ -15,6 +15,18 @@ My PhD is a collaboration between the SATIE (Laboratoire des systèmes et applic
 
 <kbd>Machine learning</kbd>;<kbd>Predictive maintenance</kbd>;<kbd>Power electronics</kbd>;<kbd>Physics-of-failure</kbd>;<kbd>Remaining useful life</kbd>;<kbd>Time series</kbd>;<kbd>Low-data learning</kbd>
 
+
+<div style="text-align: center; margin: 20px 0;">
+    <span style="color: gray; font-weight: bold; font-size: 1.1em;">
+        <i class="fas fa-tags"></i> Tags:
+    </span>
+
+    <span class="tag">Category1</span>
+    <span class="tag">Category2</span>
+    <span class="tag">Cool Posts</span>
+</div>
+
+
 Background
 ======
 I'm a graduate of [ENSTA](https://www.ensta-paris.fr)'s class of 2022, majoring in applied mathematics. I have also obtained my [MVA](https://www.master-mva.com) Master's at [ENS Paris-Saclay](https://ens-paris-saclay.fr).
