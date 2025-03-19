@@ -34,6 +34,19 @@ Work experience
   
 Skills
 ======
+* Machine learning
+  * Pytorch
+  * Tensorflow
+* Programming
+  * Python
+  * C/C++
+  * R
+  * Matlab
+* Optimization
+  * Julia 
+
+Miscellaneous
+======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
