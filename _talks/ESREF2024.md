@@ -8,3 +8,5 @@ location: "Parma, Italy"
 ---
 
 This poster was presented during the 35th European Symposium on Reliability of Electron Devices, Failure Physics and Analysis (ESREF 2024). Throught this poster, we show how kernel density estimation can be utilised as a probability density estimator, to be utilised in a Markov-Chain based sampling scheme. This sampling scheme allows us to capture the dynamic responsible for the power electronic modules' failure, using experimental data of tests to failure, combined with numerical simulations used to generate mechanical features. 
+
+[Download poster](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/Poster_ESREF2024_1%20(4).pdf)
