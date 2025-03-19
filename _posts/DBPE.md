@@ -1,6 +1,6 @@
 ---
 title: 'Dictionnary based pattern extraction'
-date: 2025-03-31
+date: 2012-08-31
 permalink: /posts/2012/08/blog-post-1/
 tags:
   - cool posts
