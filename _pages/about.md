@@ -16,6 +16,26 @@ My PhD is a collaboration between the SATIE (Laboratoire des systèmes et applic
 <kbd>Machine learning</kbd>;<kbd>Predictive maintenance</kbd>;<kbd>Power electronics</kbd>;<kbd>Physics-of-failure</kbd>;<kbd>Remaining useful life</kbd>;<kbd>Time series</kbd>;<kbd>Low-data learning</kbd>
 
 
+<style>
+.tag {
+    display: inline-block;
+    background: #f5f5f5;
+    color: gray;
+    padding: 5px 12px;
+    margin: 5px;
+    border-radius: 20px;
+    font-size: 0.9em;
+    border: 1px solid #ddd;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.tag:hover {
+    background: #e0e0e0;
+    cursor: pointer;
+}
+</style>
+
 <div style="text-align: center; margin: 20px 0;">
     <span style="color: gray; font-weight: bold; font-size: 1.1em;">
         <i class="fas fa-tags"></i> Tags:
