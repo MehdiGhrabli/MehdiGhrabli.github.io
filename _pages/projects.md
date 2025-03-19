@@ -11,7 +11,6 @@ author_profile: true
 {% for project in sorted_projects %}
   {% if project.year != current_year %}
   <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ project.year }}</h2>
-  ## {{ project.year }}
   {% assign current_year = project.year %}
   {% endif %}
 
