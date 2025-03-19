@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year PhD student in machine learning focusing on estimating the remaining lifetime of power electronics using data-driven approaches. 
+I am a 3rd year PhD student in machine learning focusing on estimating the remaining lifetime of power electronic modules using data-driven approaches. 
 
 PhD
 ======
@@ -33,7 +33,7 @@ You can get more insight in the [Projects](https://mehdighrabli.github.io/projec
 
 Interests
 ======
-Test
+I have developped an interest in maths and logic at a young age, as i was intriguied by brain-teasers that i first stumbled on in magazines and math books. As i grew up and discovered the internet, i was quickly hooked by channels such as [Numberfile](https://www.youtube.com/@numberphile), [3Blue1Brown](https://www.youtube.com/@3blue1brown), and [MindYourDecisions](https://www.youtube.com/@MindYourDecisions) among others. Aside from my love of maths, i have a soft spot for physics aswell, hence the choice of my thesis. Some of my favorite youtube channels that help fuel my curiosity in science and physics are [Vsauce](https://www.youtube.com/@Vsauce) and [Veritasium](https://www.youtube.com/@veritasium). Sports is also a big part of my life as an intermediate padel player, as well as being a football and basketball enjoyer. 
 
 Stay in touch
 ======
