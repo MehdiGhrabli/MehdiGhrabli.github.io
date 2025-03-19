@@ -10,7 +10,7 @@ author_profile: true
 
 {% for project in sorted_projects %}
   {% if project.year != current_year %}
-  ### {{ project.year }}
+  ##  project.year 
   {% assign current_year = project.year %}
   {% endif %}
 
