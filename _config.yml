@@ -355,3 +355,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+params:
+  google_site_verification: "qIsx6AWeA-WOzrrEbA4fXw3HqD4HPwhh8aUHgM_yEiU"
