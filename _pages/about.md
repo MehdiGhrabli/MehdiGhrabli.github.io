@@ -18,10 +18,10 @@ My PhD is a collaboration between the SATIE (Laboratoire des systèmes et applic
     display: inline-block;
     background: #f5f5f5;
     color: gray;
-    padding: 3px 8px;
-    margin: 3px;
-    border-radius: 15px;
-    font-size: 0.8em;
+    padding: 1px 4px;
+    margin: 2px;
+    border-radius: 10px;
+    font-size: 0.6em;
     border: 1px solid #ddd;
     text-decoration: none;
     font-weight: bold;
