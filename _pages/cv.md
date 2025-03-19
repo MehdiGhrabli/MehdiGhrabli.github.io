@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,20 +17,15 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Spring 2022: Reasearch internship
+  * Datakalab
+  * Data-Driven quantization of neural networks for image classification and segmentation
+  * Supervisors: Edouard yvinec, Kevin Bailly
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2021: Reasearch internship
+  * CREST-ENSAE
+  * Statistical modeling for Cross platform audience estimation
+  * Supervisor: Guillaume Lecué
   
 Skills
 ======
@@ -50,6 +45,7 @@ Miscellaneous
 * Competitive programming : Ranked 34/97 in the competitive programming competition SWERC (South Western Europe Regional Contest)
 * Maths and logic : Top 20 in the Tunisian national exam of mathematics and participation in the
 training course organized by the Tunisian association of mathematics (ATSM)
+* Freelance : Practice Question Writer at Study.com
 
 Publications
 ======
