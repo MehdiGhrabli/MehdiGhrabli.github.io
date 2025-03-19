@@ -1,6 +1,6 @@
 ---
-title: "My First Research Update"
-date: 2025-03-19
+title: "My Second Research Update"
+date: 2025-03-31
 layout: single
 author_profile: true
 ---
