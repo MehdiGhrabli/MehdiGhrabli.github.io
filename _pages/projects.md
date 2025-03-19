@@ -1,0 +1,20 @@
+---
+title: "Projects"
+permalink: /projects/
+layout: single
+author_profile: true
+---
+
+## Research Projects
+
+{% assign sorted_projects = site.projects | sort: "year" | reverse %}
+{% assign current_year = "" %}
+
+{% for project in sorted_projects %}
+  {% if project.year != current_year %}
+  ## {{ project.year }}
+  {% assign current_year = project.year %}
+  {% endif %}
+
+  - **[{{ project.title }}]({{ project.url }})**
+{% endfor %}
