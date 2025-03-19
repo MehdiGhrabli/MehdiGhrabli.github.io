@@ -9,5 +9,7 @@ author_profile: true
 
 {% assign sorted_posts = site.myposts | sort: "date" | reverse %}
 {% for post in sorted_posts %}
-- **[{{ post.title }}]({{ post.url }})** ({{ post.date | date: "%B %d, %Y" }})
+  {% if post.date <= site.time %}
+  - **[{{ post.title }}]({{ post.url }})** ({{ post.date | date: "%B %d, %Y" }})
+  {% endif %}
 {% endfor %}
