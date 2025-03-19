@@ -225,9 +225,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  myposts:
-    output: true
-    permalink: /myposts/:path/
   projects:
     output: true
     permalink: /projects/:path/
