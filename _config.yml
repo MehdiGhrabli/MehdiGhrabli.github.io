@@ -225,9 +225,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  myposts:
+  projects:
     output: true
-    permalink: /myposts/:path/
+    permalink: /projects/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -236,17 +236,6 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _posts
-  - scope:
-      path: ""
-      type: projects
     values:
       layout: single
       author_profile: true
