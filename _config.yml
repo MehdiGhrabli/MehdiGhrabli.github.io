@@ -228,6 +228,9 @@ collections:
   myposts:
     output: true
     permalink: /myposts/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
   
 
 
