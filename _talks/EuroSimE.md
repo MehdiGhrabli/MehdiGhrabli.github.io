@@ -9,3 +9,5 @@ location: "Catania, Italy"
 
 This work was presented during the 2024 25th International Conference on Thermal, Mechanical and Multi-Physics Simulation and Experiments in Microelectronics and Microsystems (EuroSimE). Its main purpose is to highlight how a physics-based model (Paris' law) and a data-driven model (adaptive polynomial regression) can be combined to obtain a hybrid model that benefits from both model types' strenghts. 
 
+[Download slides](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/EuroSime_Final_pres_no_rehearse.pptx)
+
