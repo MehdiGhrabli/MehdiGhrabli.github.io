@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-## Research Projects
-
 {% assign sorted_projects = site.projects | sort: "year" | reverse %}
 {% assign current_year = "" %}
 
