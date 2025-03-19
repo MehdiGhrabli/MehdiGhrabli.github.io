@@ -24,8 +24,8 @@ main:
   # - title: "TestBlogPage"
   #   url: /testblogurl/
 
-  - title: "Blog"
-    url: /blog/
+  - title: "Projects"
+    url: /projects/
 
         
   - title: "Blog Posts"
