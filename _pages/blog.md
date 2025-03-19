@@ -7,6 +7,7 @@ author_profile: true
 
 ## Blog Posts
 
-{% for post in site.myposts %}
+{% assign sorted_posts = site.myposts | sort: "date" | reverse %}
+{% for post in sorted_posts %}
 - **[{{ post.title }}]({{ post.url }})** ({{ post.date | date: "%B %d, %Y" }})
 {% endfor %}
