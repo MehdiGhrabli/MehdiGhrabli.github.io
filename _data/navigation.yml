@@ -20,6 +20,9 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
+
+  - title: "TestBlogPage"
+    url: /testblogurl/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
