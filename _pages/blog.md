@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-## Blog Posts
+## Projects
 
 {% assign sorted_posts = site.myprojects | sort: "date" | reverse %}
 {% for post in sorted_posts %}
