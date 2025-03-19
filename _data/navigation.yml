@@ -21,8 +21,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
-  - title: "TestBlogPage"
-    url: /testblogurl/
+  # - title: "TestBlogPage"
+  #   url: /testblogurl/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
@@ -30,8 +30,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title : "TEST"
-    url : /test/
+  # - title : "TEST"
+  #   url : /test/
     
   # - title: "CV"
   #   url: /cv-json/
