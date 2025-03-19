@@ -47,12 +47,9 @@ Skills
 
 Miscellaneous
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Competitive programming : Ranked 34/97 in the competitive programming competition SWERC (South Western Europe Regional Contest)
+* Maths and logic : Top 20 in the Tunisian national exam of mathematics and participation in the
+training course organized by the Tunisian association of mathematics (ATSM)
 
 Publications
 ======
@@ -71,4 +68,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+[Download CV](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/blob/master/files/CV_MEHDI_GHRABLI_Doctorat_ENG.pdf)
+
 
