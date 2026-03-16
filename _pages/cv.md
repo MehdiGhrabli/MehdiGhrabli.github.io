@@ -76,5 +76,5 @@ Academic records
 
 Download
 ======
-[Click here](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/blob/master/files/CV_MEHDI_GHRABLI_Photo.pdf) to download a more detailed CV
+[Click here](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/CV_MEHDI_GHRABLI_Photo.pdf) to download a more detailed CV
 
