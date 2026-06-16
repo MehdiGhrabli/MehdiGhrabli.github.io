@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* PhD in machine learning applied to power electronic module's reliability, ENS Paris-Saclay, 2026 (expected)
-* Masters MVA (Mathématiques, vision, apprentissage), ENS Paris-Saclay, 2022
-* Engineering degree in Applied mathematics, ENSTA Paris, 2022
-* Preparatory class Institut préparatoire aux études d’ingénieurs Tunis (IPEIT), 2019
+* PhD in machine learning applied to power electronic module's reliability, ENS Paris-Saclay, 2026
+* Masters MVA (Mathématiques, vision, apprentissage), ENS Paris-Saclay. Graduated with highest honors. 2022
+* Engineering degree in Applied mathematics, ENSTA Paris. Graduated with highest honors, 16.2/20 Grade. 2022
+* Preparatory class Institut préparatoire aux études d’ingénieurs Tunis (IPEIT). Ranked First Nationwide in the National Entrance Examination for Engineering Schools. 2019
 
 Work experience
 ======
@@ -33,16 +33,18 @@ Skills
 * Machine learning
   * Pytorch
   * Tensorflow
+  * Numpy
+  * Pandas
 * Programming
   * Python
-  * C/C++
-  * R
-  * Matlab
 * Optimization
-  * Julia 
+* Probabilistic modeling
+* Statistics
+* Dynamic Time Warping
 
 Miscellaneous
 ======
+* Ranked First Nationwide in the National Entrance Examination for Engineering Schools (Tunisia)
 * Competitive programming : Ranked 34/97 in the competitive programming competition SWERC (South Western Europe Regional Contest)
 * Maths and logic : Top 20 in the Tunisian national exam of mathematics and participation in the
 training course organized by the Tunisian association of mathematics (ATSM)
