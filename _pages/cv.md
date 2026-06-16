@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in machine learning applied to power electronic module's reliability, ENS Paris-Saclay, 2026
+* PhD in applied mathematics: Research in machine learning for predictive maintenance of power electronic modules through time-series forecasting, surrogate modeling, and stochastic processes, ENS Paris-Saclay, 2026
 * Masters MVA (Mathématiques, vision, apprentissage), ENS Paris-Saclay. Graduated with highest honors. 2022
 * Engineering degree in Applied mathematics, ENSTA Paris. Graduated with highest honors, 16.2/20 Grade. 2022
 * Preparatory class Institut préparatoire aux études d’ingénieurs Tunis (IPEIT). Ranked First Nationwide in the National Entrance Examination for Engineering Schools. 2019
