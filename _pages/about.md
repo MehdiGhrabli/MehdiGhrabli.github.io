@@ -62,8 +62,7 @@ Throughout my academic career and my personal projects, i have developped skills
 * Programming
 * Optimization
 
-
-You can get more insight in the [Projects](https://mehdighrabli.github.io/projects/) and [CV](https://mehdighrabli.github.io/cv/) sections.
+For a comprehensive overview of how I apply these skills, you can refer to my [Publications](https://mehdighrabli.github.io/publications/) and my detailed [CV](https://mehdighrabli.github.io/cv/).
 
 Interests
 ======
