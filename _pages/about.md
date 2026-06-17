@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a recent PhD graduate in applied mathematics, focusing on estimating the remaining lifetime of power electronic modules using data-driven approaches
+I am a recent PhD graduate in applied mathematics, focusing on estimating the remaining lifetime of power electronic modules using data-driven approaches.
 
 PhD
 ======
-My doctoral research was a collaboration between the SATIE (Laboratoire des systèmes et applications des technologies de l'information et de l'énergie) and LMPS (Laboratoire de Mécanique Paris-Saclay) labs at ENS Paris-Saclay. My work focused on utilizing experimental and simulated data to efficiently model the failure of power electronic modules. Through this research, I aimed to bridge the machine learning, electrical engineering, and mechanics communities, providing practical solutions for manufacturers and users to optimize the lifespan of power modules. My thesis was supervised by [Mounira Bouarroudj](https://satie.ens-paris-saclay.fr/fr/annuaire-des-personnes/mounira-bouarroudj), [Ludovic Chamoin](https://ens-paris-saclay.fr/lecole/enseignants-chercheurs/ludovic-chamoin), and [Emanuel Aldea](https://hebergement.universite-paris-saclay.fr/emi/). If you're curious about the outcomes of this work, you can explore the the [Publications](https://mehdighrabli.github.io/publications/) and [Talks](https://mehdighrabli.github.io/talks/) sections.
+My doctoral research was a collaboration between the SATIE (Laboratoire des systèmes et applications des technologies de l'information et de l'énergie) and LMPS (Laboratoire de Mécanique Paris-Saclay) labs at ENS Paris-Saclay. My work focused on utilizing experimental and simulated data to efficiently model the failure of power electronic modules. Through this research, I aimed to bridge the machine learning, electrical engineering, and mechanics communities, providing practical solutions for manufacturers and users to optimize the use of power modules. My thesis was supervised by [Mounira Bouarroudj](https://satie.ens-paris-saclay.fr/fr/annuaire-des-personnes/mounira-bouarroudj), [Ludovic Chamoin](https://ens-paris-saclay.fr/lecole/enseignants-chercheurs/ludovic-chamoin), and [Emanuel Aldea](https://hebergement.universite-paris-saclay.fr/emi/). If you're curious about the outcomes of this work, you can explore the the [Publications](https://mehdighrabli.github.io/publications/) and [Talks](https://mehdighrabli.github.io/talks/) sections.
 
 <style>
 .tag {
@@ -39,11 +39,12 @@ My doctoral research was a collaboration between the SATIE (Laboratoire des syst
     </span>
 
     <span class="tag">Machine learning</span>
+    <span class="tag">Time series</span>
     <span class="tag">Power electronics</span>
     <span class="tag">Physics-of-failure</span>
-    <span class="tag">Remaining useful life</span>
-    <span class="tag">Time series</span>
-    <span class="tag">Low-data learning</span>
+    <span class="tag">Predictive maintenance</span>
+    <span class="tag">Few-shot learning</span>
+    <span class="tag">Stochastic models</span>
 </div>
 
 
