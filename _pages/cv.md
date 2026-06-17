@@ -18,12 +18,14 @@ Education
 
 Work experience
 ======
-* Spring 2022: Reasearch internship
+* Winter 2023: Freelance
+  * Algorithmic trading based on a risk-return deep reinforcement learning algorithm
+  * Implemented a deep reinforcement learning agent for portfolio optimization, using a Markov decision process framework and recurrent neural networks to model financial time series
+* Spring 2022: Research internship
   * Datakalab
   * Data-Driven quantization of neural networks for image classification and segmentation
-  * Supervisors: Edouard yvinec, Kevin Bailly
-
-* Spring 2021: Reasearch internship
+  * Supervisors: Edouard Yvinec, Kevin Bailly
+* Spring 2021: Research internship
   * CREST-ENSAE
   * Statistical modeling for Cross platform audience estimation
   * Supervisor: Guillaume Lecué
@@ -42,13 +44,12 @@ Skills
 * Dynamic Time Warping
 * Optimization
 
-
 Miscellaneous
 ======
 * Ranked First Nationwide in the National Entrance Examination for Engineering Schools (Tunisia)
+* Baccalaureate 2017: Ranked 1st regionally (Ben Arous) in the mathematics specialty (section mathématiques)
 * Competitive programming : Ranked 34/97 in the competitive programming competition SWERC (South Western Europe Regional Contest)
-* Maths and logic : Top 20 in the Tunisian national exam of mathematics and participation in the
-training course organized by the Tunisian association of mathematics (ATSM)
+* Maths and logic : Top 20 in the Tunisian national exam of mathematics and participation in the training course organized by the Tunisian association of mathematics (ATSM)
 * Freelance : Practice Question Writer at Study.com
 
 Publications
