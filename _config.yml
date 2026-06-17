@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Mehdi Ghrabli, PhD"
+title                    : "Mehdi Ghrabli//PhD in applied mathematics"
 title_separator          : "-"
 name                     : &name "Mehdi Ghrabli"
 description              : &description "personal description"
