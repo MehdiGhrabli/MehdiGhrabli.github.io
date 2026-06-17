@@ -24,12 +24,12 @@ main:
   # - title: "TestBlogPage"
   #   url: /testblogurl/
 
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
         
-  - title: "Blog Posts"
-    url: /blog-posts/
+  # - title: "Blog Posts"
+  #   url: /blog-posts/
     
   - title: "CV"
     url: /cv/
