@@ -71,8 +71,7 @@ As I grew up and discovered the internet, my passion for math was further fueled
 
 Stay in touch
 ======
-I'm looking forward to hearing from you! Feel free to contact me via my socials on the left handle, i would love to get your opinion about my work and to have a discussion about related topics. I am also open to collaborations and job offers. 
-
+I am looking forward to hearing from you! Feel free to contact me via the social links in the left sidebar. I would love to hear your thoughts on my work or have a discussion about related topics. I am currently open to collaborations and job opportunities.
 
 
 
