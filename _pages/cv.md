@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download
+======
+[Click here](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/CV_MEHDI_GHRABLI_17June2026.pdf) to download a pdf version.
 
 Education
 ======
@@ -77,7 +80,3 @@ Academic records
 * Engineering : [First year (French)](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/releve-note-ensta1-ghrabli-mehdi-2019-2020-1A-FR_Editionfinale.pdf), [First year (English)](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/releve-note-ensta1-ghrabli-mehdi-2019-2020-1A-EN_Editionfinale.pdf), [Second year (French)](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/releve-note-ensta1-ghrabli-mehdi-2020-2021-2A-FR(2).pdf), [Second year (English)](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/releve-note-ensta1-ghrabli-mehdi-2020-2021-2A-EN.pdf), [Third year (French)](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/releve-note-ensta1-ghrabli-mehdi-2021-2022-3A-FR.pdf)
 * [Masters](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/notesM2MVAMehdiGhrabli(1).pdf)
 
-
-Download
-======
-[Click here](https://github.com/MehdiGhrabli/MehdiGhrabli.github.io/raw/master/files/CV_MEHDI_GHRABLI_17June2026.pdf) to download a more detailed CV
