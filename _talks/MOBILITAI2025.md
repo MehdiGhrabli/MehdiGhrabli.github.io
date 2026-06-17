@@ -1,4 +1,3 @@
-
 ---
 title: "AI 4 Maintenance : Remaining Useful Life Prediction of Power Modules"
 collection: Poster
