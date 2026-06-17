@@ -41,7 +41,6 @@ My doctoral research was a collaboration between the SATIE (Laboratoire des syst
     <span class="tag">Machine learning</span>
     <span class="tag">Time series</span>
     <span class="tag">Power electronics</span>
-    <span class="tag">Physics-of-failure</span>
     <span class="tag">Predictive maintenance</span>
     <span class="tag">Few-shot learning</span>
     <span class="tag">Stochastic models</span>
@@ -66,7 +65,9 @@ For a comprehensive overview of how I apply these skills, you can refer to my [P
 
 Interests
 ======
-I have developped an interest in maths and logic at a young age, as i was intriguied by brain-teasers that i first stumbled on in magazines and math books. As i grew up and discovered the internet, i was quickly hooked by channels such as [Numberfile](https://www.youtube.com/@numberphile), [3Blue1Brown](https://www.youtube.com/@3blue1brown), and [MindYourDecisions](https://www.youtube.com/@MindYourDecisions) among others. Aside from my love of maths, i have a soft spot for physics aswell, hence the choice of my thesis. Some of my favorite youtube channels that help fuel my curiosity in science and physics are [Vsauce](https://www.youtube.com/@Vsauce) and [Veritasium](https://www.youtube.com/@veritasium).
+I developed an interest in mathematics and logic at a young age, initially sparked by brain-teasers I stumbled upon in magazines and math books. This curiosity translated into academic milestones: in 2015, I was selected to take the PISA exam, and I later ranked first in the Ben Arous region of Tunisia in the mathematics regional exam organized by the Tunisian Association of Mathematics (ATSM). This earned me a spot in the math olympiad training course among the top 20 candidates. I also enjoy applying this logical foundation to competitive programming, having ranked 34th out of 97 in the South Western Europe Regional Contest (SWERC) in 2022.
+
+As I grew up and discovered the internet, my passion for math was further fueled by channels like [Numberfile](https://www.youtube.com/@numberphile), [3Blue1Brown](https://www.youtube.com/@3blue1brown), and [MindYourDecisions](https://www.youtube.com/@MindYourDecisions). Aside from my love of math, I have a soft spot for physics, which ultimately inspired the choice of my thesis topic. Today, channels like [Vsauce](https://www.youtube.com/@Vsauce) and [Veritasium](https://www.youtube.com/@veritasium) continue to fuel my curiosity in both science and physics.
 
 Stay in touch
 ======
